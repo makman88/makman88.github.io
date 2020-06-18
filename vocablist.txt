@@ -2853,7 +2853,6 @@ implement
 impliable
 implicate
 implicit
-imply
 impolitic
 importation
 importunate
@@ -2865,7 +2864,6 @@ impracticable
 imprecation
 impregnate
 impromptu
-improper
 improvident
 improvise
 imprudent
@@ -2879,9 +2877,6 @@ impure
 impute
 in medias res
 inaccessible
-inaccurate
-inactive
-inadequate
 inadmissible
 inadvertent
 inadvisable
@@ -3169,7 +3164,6 @@ invalid
 invalidate
 invaluable
 invariable
-invasion
 invective
 inveigh
 inveigle
