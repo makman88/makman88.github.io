@@ -323,7 +323,6 @@ antistrophe
 antithesis
 antitoxin
 antonym
-anxious
 apartheid
 apathy
 aperture
@@ -1003,7 +1002,6 @@ commotion
 commute
 comparable
 comparative
-comparison
 compassion
 compatible
 compel
@@ -1248,7 +1246,6 @@ corrugate
 corruptible
 corruption
 cosmetic
-cosmic
 cosmogony
 cosmography
 cosmology
@@ -1269,9 +1266,7 @@ countervail
 counting-house
 coup
 courageous
-course
 courser
-courtesy
 covenant
 covert
 covet
@@ -2132,7 +2127,6 @@ exceed
 excel
 excellence
 exceptionable
-excess
 excitable
 excitation
 exclamation
@@ -2161,7 +2155,6 @@ exhort
 exhume
 exigency
 exigent
-existence
 existential
 exodus
 exonerate
@@ -2242,7 +2235,6 @@ facsimile
 faction
 factionalism
 factious
-fad
 falderol
 fallacious
 fallacy
@@ -2279,8 +2271,6 @@ felicitous
 felicity
 felon
 felonious
-felony
-feminine
 feral
 ferment
 fernery
@@ -2292,18 +2282,15 @@ fervent
 fervid
 fervor
 festal
-festive
 fete
 fetid
 fetish
 fetter
-fetus
 feudal
 feudalism
 fiasco
 fiat
 fickle
-fictitious
 fidelity
 fidget
 fiducial
@@ -2312,9 +2299,7 @@ figment
 figurative
 figurehead
 filch
-filial
 filibuster
-financial
 financier
 finery
 finesse
@@ -2328,7 +2313,6 @@ fitful
 fixture
 flabbergasted
 flaccid
-flag-officer
 flagrant
 flair
 flamboyant
@@ -2356,14 +2340,12 @@ flout
 fluctuate
 fluctuation
 flue
-fluent
 flugel
 fluke
 fluster
 fluvial
 flux
 fodder
-fog
 foible
 foil
 foist
@@ -3129,7 +3111,6 @@ intemperance
 intension
 intention
 inter
-interact
 intercede
 intercept
 intercession
@@ -3710,8 +3691,6 @@ moderation
 moderator
 modernity
 modicum
-modification
-modify
 modish
 modulate
 mollify
@@ -3831,7 +3810,6 @@ nettle
 neural
 neurology
 neuter
-neutral
 nexus
 nib
 niggardly
@@ -3844,7 +3822,6 @@ nit
 nocturnal
 noiseless
 noisome
-noisy
 nomad
 nomenclature
 nomina
@@ -3866,7 +3843,6 @@ norm
 normalcy
 nostalgia
 nostrum
-notes
 notorious
 novel
 novellette
@@ -3891,7 +3867,6 @@ oakum
 obdurate
 obeisance
 obelisk
-obese
 obfuscate
 obfuscation
 obituary
@@ -3943,7 +3918,6 @@ officious
 offshoot
 ogle
 ogre
-ointment
 olfactory
 oligarchy
 ominous
@@ -4233,8 +4207,6 @@ persnickety
 persona
 personable
 personage
-personal
-personnel
 perspective
 perspicacious
 perspicacity
@@ -4510,7 +4482,6 @@ prodigy
 productive
 profane
 profess
-professor
 proffer
 proficient
 profiteer
@@ -4669,7 +4640,6 @@ rabid
 raconteur
 racy
 radiance
-radiate
 radical
 radix
 raffish
@@ -5145,7 +5115,6 @@ slander
 slapdash
 sleazy
 sleight
-slight
 slipshod
 sloth
 slough
