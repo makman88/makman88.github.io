@@ -548,7 +548,6 @@ bemuse
 benediction
 benefactor
 benefice
-beneficial
 beneficiary
 benevolent
 benign
@@ -604,7 +603,8 @@ bland
 blandish
 blare
 blasé
-blaspheme
+blasphem
+blasphem
 blatant
 blaze
 blazon
@@ -1547,6 +1547,7 @@ disengage
 disentangle
 disfavor
 disfigure
+disgorge
 disgruntle
 dishabille
 dishearten
@@ -3942,6 +3943,7 @@ petulant
 pharmacopoeia
 pharmacy
 phenomenal
+phenomenon
 philander
 philanthropic
 philately
@@ -5259,6 +5261,7 @@ unbelief
 unbridled
 uncanny
 unconscionable
+uncouth
 unction
 unctuous
 undeceive
